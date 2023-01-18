@@ -283,6 +283,7 @@ margin-top: 28px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  fill: transparent;
 }
 .checkbox-field:checked + .checkbox-label>.icon-check{
   border-color: var(--accent-color);
